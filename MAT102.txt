@@ -1,0 +1,265 @@
+   DEPARTMENT OF MATHEMATICAL AND COMPUTATIONAL SCIENCES
+                         UNIVERSITY OF TORONTO MISSISSAUGA
+
+                                           MAT102H5F LEC0101
+                                   Introduction to Mathematical Proofs
+                                         Course Outline - Fall 2023
+
+ Class Location & Time           Mon, 11:00 AM - 01:00 PM IB 345 
+                                 Tue, 06:00 PM - 07:00 PM ZZ TBA 
+                                 Wed, 03:00 PM - 04:00 PM DV 2080
+ Instructor                      Marina Tvalavadze
+ Office Location                 DH 3044
+ Office Hours                    Wed 13:10-14:00, Fri 13:10-14:00
+ E-mail Address                  marina.tvalavadze@utoronto.ca
+ Course Web Site                 https://q.utoronto.ca
+  
+ Co-Instructor                   Ali Feizmohammadi
+ Office Location                 DH 3027
+ Office Hours                    Tue 15:00-16:00
+ E-mail Address                  ali.feizmohammadi@utoronto.ca
+  
+ Co-Instructor                   Hyunmoon Kim
+ Office Location                 DH 3024
+ Office Hours                    Wed. 10:00-11:00
+ E-mail Address                  hyunmoon.kim@utoronto.ca
+  
+ Co-Instructor                   Snezhana Kirusheva
+ Office Location                 DH 3019
+ Office Hours                    Mon 15:00-16:00
+ E-mail Address                  s.kirusheva@utoronto.ca
+  
+ Co-Instructor                   Pramathanath Sastry
+ Office Location                 DH3097D
+ Office Hours                    Thu 11:00-13:00
+ E-mail Address                  pramath.sastry@utotoronto.ca
+
+ Course Description
+ Understanding, using and developing precise expressions of mathematical ideas, including definitions and theorems. Set theory,
+ logical statements and proofs, induction, topics chosen from combinatorics, elementary number theory, Euclidean geometry. [41L,
+ 12T]
+
+ Prerequisite: Minimum 70% in Grade 12 Advanced Functions (MHF4U)
+ Exclusion: MAT138H1 or MAT246H1 or CSC165H1 or CSCA67H3
+ Recommended: Minimum 70% in Grade 12 Calculus and Vectors (MCV4U) (SCI) 
+ Distribution Requirement: SCI 
+
+ Students who lack a pre/co-requisite can be removed at any time unless they have received an explicit waiver from the department.
+ The waiver form can be downloaded from here.
+ Learning Outcomes
+ The main goal of the course is to introduce and develop proof reading and writing skills, as well  introduce and develop many of the
+ fundamental notions/concepts which will appear in mathematics and its applications (e.g. computer science, physics, statistics,
+ economics).
+
+ Specifically, by the end of this course, students should be able to:
+
+ 1. Communicate mathematically.
+
+ (a) Communicate mathematical ideas/arguments/proofs, using the language of mathematics,
+MAT102H5F - Tvalavadze, Marina                 2023-08-30 12:18:20                                     Page 1 of 5
+ including terminology and notation, in an accurate, precise and coherent way.
+
+ (b) Parse a mathematical sentence about fundamental notions and objects (such as sets, functions,
+ divisibility, relations), as well as their properties.
+
+ 2. Think mathematically.
+
+ (a) Identify and implement methods of proof (e.g., contradiction, induction) that can be used
+ to prove a given mathematical statement.
+
+ (b) Detect flaws and gaps in a mathematical argument, and identify ways to fix them.
+
+ (c) Adapt ideas and techniques in given proofs to solve new problems.
+ Textbooks and Other Materials
+ Introduction to Proofs and Proof Strategies, by Shay Fuchs, Cambridge Press, ISBN: 9781009096287
+
+  
+ Assessment and Deadlines
+  Type                   Description                                                  Due Date      Weight
+  Class Participation    Answering polls                                              On-going              3%
+  Assignment             Written homework (best 4 out of 5)                           On-going            10%
+  Assignment             Pre-class quizzes                                            On-going              5%
+  Quiz                   In person quizzes (best 3 out of 4)                          On-going            24%
+  Term Test                                                                           2023-10-24          16%
+  Other                  Completing MAT102 modules on MathMatize                      On-going              2%
+  Final Exam                                                                          TBA                 40%
+                                                                                              Total       100%
+
+
+ More Details for Assessment and Deadlines
+  
+
+ Homeworks
+
+ There will be 5 homework assignments. We will use Crowdmark for homework submission.  Please see below the exact homework
+ due dates:
+
+ Homework 1 is due on Saturday,  Sept. 16 at 11:59pm in Crowdmark.
+
+ Homework 2 is due on  Saturday, Sept. 30  at 11:59pm in Crowdmark.
+
+ Homework 3 is due on Saturday,  Oct. 21 at 11:59pm in Crowdmark.
+
+ Homework 4 is due on Saturday,  Nov. 11 at 11:59pm in Crowdmark.
+
+ Homework 5 is due on Saturday,  Nov. 25 at 11:59pm in Crowdmark.
+
+  
+
+ Quizzes and the Term Test
+
+ Four quizzes and the term test will be written during the Tuesday 6-7pm time slot. The 4 quiz dates and the one term test date are
+ the only times when we will use the Tu 6-7pm time slot. You must be available for these 5 dates. You should not sign up for
+ another course which conflicts with this time slot.
+
+MAT102H5F - Tvalavadze, Marina                 2023-08-30 12:18:20                                     Page 2 of 5
+ Quiz 1 is on Tuesday, September 19 , 6-7 pm. 
+
+ Quiz 2 is on Tuesday, October 3, 6-7 pm.
+
+ Term Test is on Tuesday, October 24, 6-7 pm.
+
+ Quiz 3 is on Tuesday,  November 14 , 6-7 pm.
+
+ Quiz 4 is on Tuesday, November 21, 6-7 pm.
+
+  
+
+ Pre-class Quizzes on Quercus
+
+ Prior to each week (starting Wednesdays), students are required to read relevant sections from the textbook, and complete an online
+ quiz on Quercus, by Tuesdays, at midnight (see the course schedule on the website). If there is an in-class quiz on Tuesday, the
+ deadline for submitting the pre-class quiz is extended till the midnight of the upcoming Wednesday.
+
+ The pre-class quizzes count as 5% of the overall course mark. There are 12 pre-class quizzes in total, but only the best 10 will
+ count towards the final course mark.
+
+ In-class Polling 
+
+ Each class will  start with  "Polling Questions" that will help you and your instructor check understanding of the basic concepts.
+ These questions are graded for participation only. We will use the MathMatize platform for running polls. Instructions for
+ setting up a MathMatize account are posted on the course page.
+
+  Participation in polls is worth 3% of your final grade. To earn the full 3% you must participate in a minimum of 80% of  polls.
+  Please note that this requires you to bring a device (e.g. smart phone, tablet, laptop) which can connect to the internet in class. 
+ Penalties for Lateness
+ Each student can request a 24h extension for HW (not pre-class quizzes) once during the semester. If you need to submit your HW
+ late, you must notify the assistant coordinator  that you have used your 24h extention. Otherwise, your HW will normally get a
+ grade of 0. Your email should include your name, your student id # and the HW for which you are using the extension. Other
+ than these extensions, late assignments will  not be accepted, and the score of 0 will be given for the late assignment (even if it is
+ just one minute late). Therefore, try to finish a homework at least few hours before the deadline. 
+
+ Please note that there is no extension or make up for pre-class quizzes.
+
+  
+ Procedures and Rules
+ Missed Term Work
+ If you miss a test or quiz for illness or any other valid reason, you must report your absence on ACORN. (No further documentation
+ is required.)
+
+ One missed quiz: the other three quizzes count for 8% each. (The missed quiz becomes the "dropped quiz".)
+
+ Two missed quizzes: the other two quizzes count for 8% each, and the final exam counts for 48%.
+
+ Three missed quizzes: the written quiz counts for 12% and the final counts for 52%. (If three quizzes missed and the test also
+ missed then the written quiz counts for 14% and final exam counts for 66%).
+
+ Four missed quizzes and term test written: the term test counts for 28% and the final counts for 52%.
+
+ Four missed quizzes and term test missed: You must write the make up test.  in this case the make up test counts for 20% and
+ the final exam counts for 60%. If the make up test will be missed the grade for all quizzes and term test will normally be 0 and the
+ final exam counts for 40%.
+
+ Missed Term Test: The weight of the term test will be moved to the final, so in this case the final counts for 56%.
+
+  
+
+MAT102H5F - Tvalavadze, Marina                 2023-08-30 12:18:20                                     Page 3 of 5
+ There is no make-up for missed homework (but 4 out of 5 will be counted) or reading pre-class quizzes.
+
+  
+
+  
+
+  
+
+ Missed Final Exam
+ Students who cannot complete their final examination due to illness or other serious causes must file an online petition within 72
+ hours of the missed examination. Late petitions will NOT be considered. Upon approval of a deferred exam request, a non-
+ refundable fee of $72 is required for each examination approved.
+
+ Academic Integrity
+ Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the
+ University of Toronto Mississauga is a strong signal of each student’s individual academic achievement. As a result, UTM treats
+ cases of cheating and plagiarism very seriously. The University of Toronto's Code of Behaviour on Academic Matters outlines
+ behaviours that constitute academic dishonesty and the process for addressing academic offences. Potential offences include, but
+ are not limited to:
+
+ In papers and assignments:
+
+     1. Using someone else's ideas or words without appropriate acknowledgement.
+     2. Submitting your own work in more than one course, or more than once in the same course, without the permission of the
+        instructor.
+     3. Making up sources or facts.
+     4. Obtaining or providing unauthorized assistance on any assignment.
+
+ On tests and exams:
+
+     1. Using or possessing unauthorized aids.
+     2. Looking at someone else’s answers during an exam or test.
+     3. Misrepresenting your identity.
+
+ In academic work:
+
+     1. Falsifying institutional documents or grades.
+     2. Falsifying or altering any documentation required, including (but not limited to) doctor's notes.
+
+ All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+ Academic Matters. If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+ research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+ from other institutional resources.
+
+ Plagiarism Detection
+ Normally, students will be required to submit their course essays to the University’s plagiarism detection tool for a review of
+ textual similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source
+ documents in the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that
+ apply to the University’s use of this tool are described on the Centre for Teaching Support & Innovation web site
+ (https://uoft.me/pdt-faq).
+
+ Students may wish to opt out of using the plagiarism detection tool. In order to opt out, contact your instructor by email no later
+ than two (2) weeks after the start of classes. If you have opted out, then specific information on an alternative method to submit
+ your assignment can be found below.
+
+ Informed Consent – Email Lists
+ As a student enrolled in this course, you understand that you are providing your implicit consent to be included in an email list for
+ the department to send you non-essential information from time to time. If you do not wish to be included in such an email list,
+ please request to be removed by contacting one of the Academic Advisors & Undergraduate Program Administrators. Their
+ information can be found on the MCS Website Contact Us page .
+ Final Exam Information
+
+MAT102H5F - Tvalavadze, Marina                 2023-08-30 12:18:20                                     Page 4 of 5
+ Duration:             3 hours
+ Additional Information
+  
+
+ All emails to course staff should come from your "utoronto" email account, and contain "MAT 102" in the subject heading. If your
+ question is about  course policy or other administrative matters (e.g. missed assessments, illness) you should contact the course
+ coordinator (Marina Tvalavadze marina.tvalavadze@utoronto.ca). The discussion board is a great place to ask questions, and you
+ can often get an answer more quickly by posting there.
+  
+
+ Use of Generative AL in assignments
+
+ Generative Artificial Intelligence (AI), and specifically foundational models that can create writing, computer code, and /or images
+ using minimal human prompting, are proliferating and becoming ubiquitous. This includes not only GPT-4 (and its siblings
+ ChatGPT and Bing), but many writing assistants that are built on this or similar AI technologies.
+
+ In this course, students are encouraged to make use of technology, including generative artificial intelligence tools, to contribute to
+ their understanding of course materials. However, students may not use artificial intelligence tools for taking tests, quizzes,
+  creating computer code, or completing  course assignments. However, these tools may be useful when gathering information from
+ across sources and assimilating it for understanding.
+
+ Last Date to drop course from Academic Record and GPA is November 6, 2023.
+
+
+MAT102H5F - Tvalavadze, Marina                 2023-08-30 12:18:20                                     Page 5 of 5
